@@ -16,5 +16,6 @@ jekyll build --watch
 #    watched for changes, and regenerated automatically.
 ```
 
+*Pra postar: git push origin master*
 *Convenção pra nomear arquivo de post*
 `YEAR-MONTH-DAY-title.MARKUP`
