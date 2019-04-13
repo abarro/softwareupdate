@@ -1,5 +1,8 @@
 *pra rodar e buildar local:*
 `bundle exec jekyll serve`
+#isso já vai procurar pelas mudanças de css e html. Só dar um refresh no browser pra ver.
+
+Edite o arquivo assents/main.scss para editar o css.
 
 *outros comandos*
 ```jekyll build

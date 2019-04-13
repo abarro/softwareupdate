@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Porque Software Update?
+-----------------------
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Se o meu corpo é o meu hardware. A maneira que eu penso é o meu software. 
 
+Para aproveitar o melhor da vida, quero manter meu software atualizado. Quero evoluir sempre a maneira que eu penso.
 
-[jekyll-organization]: https://github.com/jekyll
+Software Update é um site escrito por mim, [André Barro](https://andrebarro.com.br/), e seu público alvo sou eu mesmo.
+
+Se o que eu escrevo para documentar esta jornada servir para você, sinta-se em casa.
