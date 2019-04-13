@@ -16,7 +16,7 @@
 title: Sowftware Update  
 email: abarro@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Atualizações para manter minha mente atualizada.
+  Updates para manter a mente atualizada.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abarro.github.io/softwareupdate/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: abarro
