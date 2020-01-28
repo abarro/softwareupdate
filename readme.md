@@ -20,5 +20,6 @@ jekyll build --watch
 ```
 
 *Pra postar: git push origin master*
+*Talvez tenha que estar em gh-pages a branch*
 *Convenção pra nomear arquivo de post*
 `YEAR-MONTH-DAY-title.MARKUP`
