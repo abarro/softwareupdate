@@ -16,13 +16,13 @@ To maintain a skill honed you need to use it constantly. When automation enters 
 
 That is good when automation replaces low skilled labor. But what happens when automation replaces essential skills or creative work?
 
-Gmail completes sentences for you. You can think it's ok, after all, you have written stuff your entire life. It's just helping you out.
+Gmail completes sentences for you. Stating it differently: Gmail uses artificial intelligence to automate writing by completing sentences. You can think it's ok for you. After all, you have written stuff your entire life. It's just helping you out.
 
-What about the next generations? Will they relly on automatically generated text until a point where they depend on it?
+What about the next generations? They communicate heavily through messaging. Will they relly on automatically generated text to a point where they depend on it? 
 
-Remember, when something performs a skill for you, it means you've outsourced it. When you outsource it, you eventually lose the hability to do it. Most important: you become dependant.
+Remember that when you let something perform a skill for you, you've outsourced that skill. When you outsource it, you eventually lose the ability to do it. And most important: you become dependant of your source.
 
-Is it hard to imagine a future where people are illiterate because they depend on artificial intelligence to communicate?
+It's not hard to imagine a future where people depend on assistance for writing to a point that they can't communicate without help.
 
 It gets worse if you think that when you rely on someone to communicate on your behalf, that person can say whatever they want for you.
 
