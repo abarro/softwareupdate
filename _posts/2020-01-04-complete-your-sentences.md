@@ -20,7 +20,7 @@ Gmail completes sentences for you. You can think it's ok, after all, you have wr
 
 What about the next generations? Will they relly on automatically generated text until a point where they depend on it?
 
-Remember, when something performs a skill for you, you outsource it. When you outsource it, you eventually lose it. Most important: you become dependant.
+Remember, when something performs a skill for you, it means you've outsourced it. When you outsource it, you eventually lose the hability to do it. Most important: you become dependant.
 
 Is it hard to imagine a future where people are illiterate because they depend on artificial intelligence to communicate?
 
