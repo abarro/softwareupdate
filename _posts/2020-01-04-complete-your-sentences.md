@@ -18,7 +18,7 @@ That is good when automation replaces low skilled labor. But what happens when a
 
 Gmail completes sentences for you. You can think it's ok, after all, you have written stuff your entire life. It's just helping you out.
 
-What about the next generations? Will relly on automatically generated text until a point where they depend on it?
+What about the next generations? Will they relly on automatically generated text until a point where they depend on it?
 
 Remember, when something performs a skill for you, you outsource it. When you outsource it, you eventually lose it. Most important: you become dependant.
 
