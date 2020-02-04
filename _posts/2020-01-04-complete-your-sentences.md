@@ -20,12 +20,12 @@ Gmail completes sentences for you. Stating it differently: Gmail uses artificial
 
 What about the next generations? They communicate heavily through messaging. Will they relly on automatically generated text to a point where they depend on it? 
 
-Remember that when you let something perform a skill for you, you've outsourced that skill. When you outsource it, you eventually lose the ability to do it. And most important: you become dependant of your source.
+Remember that when you let something perform a skill for you, you've outsourced that skill. When you outsource it, you eventually lose the ability to do it. And most important: you become dependent on your source.
 
 It's not hard to imagine a future where people depend on assistance for writing to a point that they can't communicate without help.
 
-It gets worse if you think that when you rely on someone to communicate on your behalf, that person can say whatever they want for you.
+It gets worse if you think that by suggesting your sentences, they manipulate what you say. And you will be too stupid to understand.
 
-And you will be too stupid to understand that you are manipulated.
+We've been talking about this on the individual level. Now imagine this happening to entire populations. Entire populations manipulated. That's a lot of power for who controls the AI.
 
-This reflection made me question myself: have I had any essential skill outsourced that I'm not aware of?
+This reflection also made me question: what essential skills have I outsourced without being aware?
